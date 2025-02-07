@@ -32,7 +32,7 @@ Repository Structure/specsmakers-test-plan
 |-- bug-reports/           # Directory containing bug reports
 |-- test-execution/        # Test execution reports and logs
 |-- README.md              # Project overview and setupHow to Use This RepositoryClone the repository:
-git clone https://github.com/yourusername/specsmakers-test-plan.gitNavigate to the repository directory:
+git clone https://github.com/anikb6036/Elevate_Day1.git to the repository directory:
 cd specsmakers-test-planAccess the test plan document and test cases for reference.
 Log issues and update reports as needed.
 ContributorsAnik Baidya - QA Engineer
